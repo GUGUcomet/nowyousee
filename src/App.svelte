@@ -3,7 +3,7 @@
 </script>
 
 <main>
-  <h1>Hello wow {name}!</h1>
+  <h1>Hello wowiwiwiwiwiwiwiww {name}!</h1>
   <p>what can i do? {name}!</p>
 </main>
 
